@@ -31,7 +31,7 @@ Apr 2025 – Jul 2025
 
 - University Café Website (Frontend)  
   Developed responsive and real-time frontend features for a campus café website — focused on UX and mobile-first design.  
-  (Repository link: add your repo URL)
+ https://github.com/harshkhamkar26/bistro-cafe-management-system
 
 - Bistro Café Management System (Backend)  
   Built backend functionalities using Java and Python with optimized database queries to improve performance and reliability.  
