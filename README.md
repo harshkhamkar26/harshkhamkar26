@@ -35,22 +35,25 @@ Apr 2025 – Jul 2025
 
 - Bistro Café Management System (Backend)  
   Built backend functionalities using Java and Python with optimized database queries to improve performance and reliability.  
-  (Repository link: add your repo URL)
+   https://github.com/harshkhamkar26/bistro-cafe-management-system
 
+- Student Performance Prediction & Explainability (Machine Learning)
+  Predicted overall student academic performance using demographic, behavioral, and lifestyle data with a Random Forest model, and explained predictions using SHAP for transparency      and interpretability.
+  https://github.com/harshkhamkar26/Student_Performance_XAI
+  
 - SMART Project — Rural Development  
   Led surveys and designed technical solutions to address rural education and development challenges; coordinated operations and stakeholder outreach.  
   (Project report / repo link: add link)
 
 ---
 
-## Technical Skills
+Technical Skills
 
-- Programming: Python, C++ , HTML, CSS, JavaScript (React)
-- AI & Data: Machine Learning, Data Analysis, Model Evaluation
-- Web Development: Frontend & Backend Development (React, Java/Python backends)
-- Libraries & Tools: Pandas, Matplotlib, scikit-learn, TensorFlow, Power BI
-- Other: Team Management, Leadership, Public Speaking
-
+-Programming: Python, C++, HTML, CSS, JavaScript (React), Jupyter Notebook
+-AI & Data: Machine Learning (Random Forest, Regression), Data Analysis, Model Evaluation, Explainable AI (SHAP/XAI)
+-Web Development: Frontend & Backend Development (React, Java/Python backends), Responsive Design, Bootstrap/Tailwind CSS
+-Libraries & Tools: Pandas, NumPy, Matplotlib, Seaborn, scikit-learn, TensorFlow, Power BI, Git/GitHub
+-Other: Team Management, Leadership, Public Speaking, Problem Solving
 ---
 
 ## Certifications
