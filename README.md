@@ -1,107 +1,175 @@
 # 👋 Hi, I'm Harsh Khamkar
 
-> B.Tech student at Universal AI University — passionate about Artificial Intelligence, Machine Learning, Data Science, and Software Development. I build practical AI/ML solutions and web applications that solve real problems.
+> AI/ML & Data Science Undergraduate passionate about Artificial Intelligence, Data Analytics, Business Analytics, and scalable technology solutions.
 
-[![Profile Views](https://komarev.com/ghpvc/?username=harshkhamkar26&color=0e75b6)](https://github.com/harshkhamkar26)
-
----
-
-## About Me
-I enjoy working on real-world projects that combine data analysis, machine learning models, and practical web applications. I have hands-on experience from industry internships and university projects, and I’ve led teams and events at the university level.
-
-- 🔭 Currently working on: AI/ML projects, data analysis tasks, and web-based applications  
-- 🌱 Currently learning: advanced machine learning concepts, data-driven systems, and German (A1)  
-- 👯 Open to: internships, collaborations, and learning-focused projects  
-- ⚡ Fun fact: I enjoy converting manual processes into simple, efficient digital solutions
+[![Profile Views](https://komarev.com/ghpvc/?username=harshkhamkar26\&color=0e75b6)](https://github.com/harshkhamkar26)
 
 ---
 
-## Experience
+# 🚀 About Me
 
-### Technology & Innovation Intern — One Globe Build Con LLP, Nagpur
-Apr 2025 – Jul 2025
-- Implemented frontend features using HTML, CSS, JavaScript, and React.js with responsiveness and real-time interactions.
-- Assisted with data preprocessing, model development, and evaluation using Python, scikit-learn, and TensorFlow.
-- Created data visualizations and dashboards using Pandas, Matplotlib, and Power BI.
-- Recognized for adaptability, teamwork, and strong technical understanding.
+I’m a B.Tech student at Universal AI University specializing in Artificial Intelligence, Machine Learning, and Data Science.
 
----
+I enjoy building practical projects that combine:
 
-## Projects
+* Machine Learning
+* Data Analytics
+* Dashboarding
+* Business Intelligence
+* Web Development
+* Sports Analytics
 
-- University Café Website (Frontend)  
-  Developed responsive and real-time frontend features for a campus café website — focused on UX and mobile-first design.  
- https://github.com/harshkhamkar26/bistro-cafe-management-system
-
-- Bistro Café Management System (Backend)  
-  Built backend functionalities using Java and Python with optimized database queries to improve performance and reliability.  
-   https://github.com/harshkhamkar26/bistro-cafe-management-system
-
-- Student Performance Prediction & Explainability (Machine Learning)
-  Predicted overall student academic performance using demographic, behavioral, and lifestyle data with a Random Forest model, and explained predictions using SHAP for transparency      and interpretability.
-  https://github.com/harshkhamkar26/Student_Performance_XAI
-  
-- SMART Project — Rural Development  
-  Led surveys and designed technical solutions to address rural education and development challenges; coordinated operations and stakeholder outreach.  
-  (Project report / repo link: add link)
+Alongside technology, I’ve also been actively involved in leadership, operations management, and university-level sports activities.
 
 ---
 
-Technical Skills
+# 💼 Experience
 
--Programming: Python, C++, HTML, CSS, JavaScript (React), Jupyter Notebook
--AI & Data: Machine Learning (Random Forest, Regression), Data Analysis, Model Evaluation, Explainable AI (SHAP/XAI)
--Web Development: Frontend & Backend Development (React, Java/Python backends), Responsive Design, Bootstrap/Tailwind CSS
--Libraries & Tools: Pandas, NumPy, Matplotlib, Seaborn, scikit-learn, TensorFlow, Power BI, Git/GitHub
--Other: Team Management, Leadership, Public Speaking, Problem Solving
----
+## Data Analyst & Business Analyst Intern — Choice India
 
-## Certifications
+**May 2026 – Present**
 
-- Advanced Python  
-- Advanced Excel  
-- SDG Certificate — Columbia University (edX)  
-- Climate Change Certificate — University of Edinburgh (edX)  
-- Prompt Engineering — DataCamp  
-- HCL Tech Certificate  
-- SMART Project Certificate — Life of Light Trust
+* Working on business and financial data analysis
+* Building dashboards and automated reports
+* Generating insights for strategic decision-making
+* Supporting analytics and reporting workflows
 
----
+## Technology & Innovation Intern — One Globe Build Con LLP
 
-## Leadership & Achievements
+**Apr 2025 – Jul 2025**
 
-- President — Sports Club, Universal AI University (2025–26)  
-- Head of Operations — SMART Project  
-- Event Head — Rush4Rush (Inter-college Annual Event)  
-- National & State Level Basketball Player  
-- 1st Prize — Inter-College Basketball Competition
+* Developed frontend interfaces using HTML, CSS, JavaScript, and React.js
+* Worked on ML workflows using Python and Scikit-learn
+* Built dashboards and visualizations using Pandas, Matplotlib, Excel, and Power BI
 
 ---
 
-## Languages
-- English  
-- Hindi  
-- Marathi  
-- German (A1 — learning)
+# 📌 Projects
+
+## Student Performance Analysis using Explainable AI (SHAP)
+
+* Built ML models to predict academic performance
+* Applied Explainable AI (SHAP) for model transparency
+* Analyzed feature importance and prediction behavior
+
+🔗 Repository:
+https://github.com/harshkhamkar26/Student_Performance_XAI
 
 ---
 
-## Contact
+## University Café Website
 
-- 📧 Email: harshkhamkar@universalai.in  
-- 💼 LinkedIn: (add your LinkedIn URL here)  
-- 🌐 Portfolio: (Netlify link once ready)
+* Developed responsive frontend modules
+* Improved user interaction and usability
+* Built scalable UI components using React.js
 
----
-
-## GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshkhamkar26&layout=compact&theme=tokyonight)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshkhamkar26&show_icons=true&theme=tokyonight)
+🔗 Repository:
+https://github.com/harshkhamkar26/bistro-cafe-management-system
 
 ---
 
-## Want to collaborate?
-If you’d like to work together, hire me for an internship, or discuss a project — send a message to my email or connect on LinkedIn. I’m happy to contribute to open-source, internships, and learning-focused projects.
+## Bistro Café Management System
 
-Thanks for visiting — let’s build something useful!
+* Developed backend functionalities using Java & Python
+* Optimized database operations and workflows
+* Improved management system performance
+
+🔗 Repository:
+https://github.com/harshkhamkar26/bistro-cafe-management-system
+
+---
+
+# 🛠 Technical Skills
+
+### Programming
+
+Python • SQL • C++ • HTML • CSS • JavaScript
+
+### AI & Data
+
+Machine Learning • Data Analysis • Business Analytics • Dashboarding • Reporting • Explainable AI
+
+### Libraries & Tools
+
+Pandas • NumPy • Matplotlib • Scikit-learn • TensorFlow • Power BI • Git • GitHub • Jupyter Notebook
+
+### Development
+
+React.js • Frontend Development • APIs • Responsive Design
+
+### Other Skills
+
+Leadership • Team Management • Problem Solving • Communication
+
+---
+
+# 📜 Certifications
+
+* Advanced Python
+* Advanced Excel
+* Prompt Engineering — DataCamp
+* SDG Certification — edX (Columbia University)
+* Climate Change Certification — edX (University of Edinburgh)
+* HCL Tech Certification
+
+---
+
+# 🏆 Leadership & Achievements
+
+* President — Sports Club, Universal AI University (2025–26)
+* Head of Operations — SMART Project
+* Event Head — Rush4Rush Intercollege Event
+* National & State Level Basketball Player
+* 1st Prize — Inter-College Basketball Competition
+
+---
+
+# 🌱 Current Goals
+
+* Build strong AI/ML projects
+* Improve problem-solving & DSA
+* Work on sports analytics research
+* Contribute consistently on GitHub
+* Prepare for Germany MS journey (Winter 2028)
+
+---
+
+# 🌍 Languages
+
+* English
+* Hindi
+* Marathi
+* German (A1 — Learning)
+
+---
+
+# 📫 Connect With Me
+
+📧 Email: [harshkhamkar26@gmail.com](mailto:harshkhamkar26@gmail.com)
+
+💼 LinkedIn:
+(https://www.linkedin.com/in/harsh-khamkar-b4a54a32a/)
+
+
+
+---
+
+# 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshkhamkar26\&layout=compact\&theme=tokyonight)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshkhamkar26\&show_icons=true\&theme=tokyonight)
+
+---
+
+# 🤝 Open to Collaborate
+
+I’m always open to:
+
+* internships
+* AI/ML collaborations
+* analytics projects
+* open-source contributions
+* research-focused opportunities
+
+Thanks for visiting my profile 🚀
