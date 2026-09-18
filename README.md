@@ -27,7 +27,7 @@ Alongside technology, I’ve also been actively involved in leadership, operatio
 
 ## Data Analyst & Business Analyst Intern — Choice India
 
-**May 2026 – Present**
+**May 2026 – July 2026**
 
 * Working on business and financial data analysis
 * Building dashboards and automated reports
